@@ -1,5 +1,7 @@
 # 📊 Canada Mortality Trends Dashboard
 
+![Dashboard Screenshot](leading_deaths_dashboard_screenshot.png)
+
 An interactive data visualization dashboard built with **Python** and **Streamlit** to explore the leading causes of death in Canada. This project pulls real-time data directly from **Statistics Canada (Table 13-10-0394-01)** and allows users to analyze mortality trends across various demographics.
 
 ## 🌟 Features
